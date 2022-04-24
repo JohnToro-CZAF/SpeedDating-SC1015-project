@@ -30,6 +30,7 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 
 
 ## Conclusion
+- Random Forest did not perform well with inbalance dataset
 - The ideal traits that Males look for in Females are:
    - Fun
    - Attractive
