@@ -13,8 +13,8 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 ## Contributors
 
 1. Ng Zheng Kai - U2122921J - @nzkai 
-2. Kelvin Pang - U2122086A - @JohnToro
-3. Phan Nhat Hoang - U2120111G - @kelpjr
+2. Kelvin Pang - U2122086A - @kelpjr
+3. Phan Nhat Hoang - U2120111G - @JohnToro
 
 | Contribution List     	|                                 	        |
 |-----------------------	|------------------------------------	    |             
