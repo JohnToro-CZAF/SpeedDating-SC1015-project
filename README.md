@@ -12,13 +12,9 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 
 ## Contributors
 
-- @nzkai -
-- @JohnToro -
-- @kelpjr - 
-
-1. Ng Zheng Kai - U2122921J
-2. Kelvin Pang - U2122086A
-3. Phan Nhat Hoang - U2120111G
+1. Ng Zheng Kai - U2122921J - @nzkai 
+2. Kelvin Pang - U2122086A - @JohnToro
+3. Phan Nhat Hoang - U2120111G - @kelpjr
 
 | Contribution List     	|                                 	        |
 |-----------------------	|------------------------------------	    |             
@@ -27,34 +23,34 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 | Phan Nhat Hoang           | Data spliting, Logistic Regression	    |
 
 ## Background
-    The choice of a marriage partner is one of the most serious 
-    decisions people face. In contemporary Western societies, this 
-    decision usually follows a long learning period during which 
-    people engage in more informal and often polygamous relation 
-    ships, i.e., dating. In particular, we analyze gender differences in dating preferences by analysing the speed-dating dataset. 
+The choice of a marriage partner is one of the most serious 
+decisions people face. In contemporary Western societies, this 
+decision usually follows a long learning period during which 
+people engage in more informal and often polygamous relation 
+ships, i.e., dating. In particular, we analyze gender differences in dating preferences by analysing the speed-dating dataset. 
 
-    As in all matching markets, determining dating preferences from equilibrium 
-    outcomes is difficult because a given correlation of attributes across 
-    partners is often consistent with various preference structures such as:
+As in all matching markets, determining dating preferences from equilibrium 
+outcomes is difficult because a given correlation of attributes across 
+partners is often consistent with various preference structures such as:
 
-    Women put greater weight on the intelligence and the race of partner, while 
-    men respond more to physical attractiveness. Moreover, men do not value women's 
-    intelligence or ambition when it exceeds their own. 
+Women put greater weight on the intelligence and the race of partner, while 
+men respond more to physical attractiveness. Moreover, men do not value women's 
+intelligence or ambition when it exceeds their own. 
 
-    To overcome this problem, we use speed dating dataset, the dataset came from a survey which was conducted in carefully controlled dating environment by researchers. What we found in this dataset might consistent with known social structure theory or something we have not known yet. 
+To overcome this problem, we use speed dating dataset, the dataset came from a survey which was conducted in carefully controlled dating environment by researchers. What we found in this dataset might consistent with known social structure theory or something we have not known yet. 
      
 ## Dataset
-    This dataset recored speed-dating dates which each one is a date between subject and his/her partner. Everything about the date was recorded including partner's and subject's dating preference(score on attributes they want in their partner), personal information: age, income, sat score. And the most important variable is `match`: indicating this date was successful or not. We will focus on this variable as a response.
+This dataset recored speed-dating dates which each one is a date between subject and his/her partner. Everything about the date was recorded including partner's and subject's dating preference(score on attributes they want in their partner), personal information: age, income, sat score. And the most important variable is `match`: indicating this date was successful or not. We will focus on this variable as a response.
 ## Problem Definition
-    - With so many different factors that can affect the result of a match which ones have the most impact?
-    - How can we identify which variable as the most important to a match
-    - Identify which variables appeared in dataset affect a male's or female's match separately. From there identify the difference in dating preference between male and female
+- With so many different factors that can affect the result of a match which ones have the most impact?
+- How can we identify which variable as the most important to a match
+- Identify which variables appeared in dataset affect a male's or female's match separately. From there identify the difference in dating preference between male and female
 
 ## Solving problem
-    - By doing preliminary exploratory analysis, we observed that there are many variables that are irrelevant to the response. Also the dataset is prevalent with missing values. So we decided just take a look to into specific categories of variables: attributes, satIncome and similarity. 
-    - Cleaning data and do EDA on each of category of variables, by limiting our scope of exploring this dataset, we were able to control the sophisticated missing values in each category. Creating a better analysis for each category.
-    - Aggregate existing variables to create variables that portrayed dating preference while the original can not.
-    - Based on generalized linear probability model, the coefficient of appropriate predictive or regression model can be used as the magnitude of variable's importance. By using different models and normalizing technique, we were able to extract stastically significant dating preference of both male and female.
+- By doing preliminary exploratory analysis, we observed that there are many variables that are irrelevant to the response. Also the dataset is prevalent with missing values. So we decided just take a look to into specific categories of variables: attributes, satIncome and similarity. 
+- Cleaning data and do EDA on each of category of variables, by limiting our scope of exploring this dataset, we were able to control the sophisticated missing values in each category. Creating a better analysis for each category.
+- Aggregate existing variables to create variables that portrayed dating preference while the original can not.
+- Based on generalized linear probability model, the coefficient of appropriate predictive or regression model can be used as the magnitude of variable's importance. By using different models and normalizing technique, we were able to extract stastically significant dating preference of both male and female.
 
 ## Problem Categories that we splitted into
 - 1st Category ( 6 Key Attributes )
