@@ -87,7 +87,7 @@ This dataset recored speed-dating dates which each one is a date between subject
     our data. 
    - Being in the same field of study has no predictive 
     power, but both men and women prefer partners from the same 
-    region ofthe world. 
+    region of the world. 
 
 
 ## What did we learn from this project?
