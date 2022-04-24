@@ -18,9 +18,9 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 
 | Contribution List     	|                                 	        |
 |-----------------------	|------------------------------------	    |             
-| Ng Zheng Kai 	            | Presentation Slides, EDA, random forest   |
-| Kelvin Pang            	| Presentation Slides, OLS                  |
-| Phan Nhat Hoang           | Data spliting, Logistic Regression	    |
+| Ng Zheng Kai 	            | Presentation Slides, EDA, Categories, Other Model   |
+| Kelvin Pang            	  | Presentation Slides, EDA, Other Model               |
+| Phan Nhat Hoang               | Data spliting, Similarities,  Logistic Regression	 |
 
 ## Background
 The choice of a marriage partner is one of the most serious 
