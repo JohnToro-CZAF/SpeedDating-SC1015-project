@@ -21,14 +21,19 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 ## Problem Definition
 - How do different variables have an impact on getting a date?
 
+## Problem Categories that we splitted into
+- 1st Category ( 6 Key Attributes )
+   - Attractive, Sincerity, Intelligence, Fun, Ambition and Shared Interest
+- 2nd Category ( Intelligence & Income )
+   - Sat Score & Income
+- 3rd Category ( Similarities )
+   - Shared Interest, Race, Field Of Study, Region
 
 ## Models Used
-
 1. Logistic Regression
 2. Random Forest
 3. XGBoost
 4. Ordinary Least Squares(OLS)
-
 
 ## Conclusion
 - Random Forest did not perform well with inbalance dataset
@@ -41,7 +46,6 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
    - Humurous
    - Inteligence
    - Similar field of study
-
 
 ## What did we learn from this project?
 - Handling imbalance dataset using regEx, categorizing the similar data
