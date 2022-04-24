@@ -1,7 +1,7 @@
 # Welcome to Speed-Dating-analysis repository
 
 ## About
-This is a Mini-Project for SC1015(Introduction to Data Science and Artificial Intelligence) which focuses on speed-dating from [Speed Dating Experiment] (https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment). For detailed information, please view the source code in order from:
+This is a Mini-Project for SC1015(Introduction to Data Science and Artificial Intelligence) which focuses on speed-dating from [Speed Dating Experiment](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment). For detailed information, please view the source code in order from:
 
 
 1. [Data Cleaning]
