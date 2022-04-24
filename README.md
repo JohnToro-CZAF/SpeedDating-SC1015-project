@@ -45,8 +45,8 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 - Handling imbalance dataset using regEx, categorizing the similar data
 - Logistic Regression from sklearn
 - XGBoost & OLS
-- API Usage
-- Other packages such as pandasql
+- API Usage (Statsmodel, GeoPy)
+- Other packages such as pandasql, plotly
 - Collaborating using GitHub
 - Normalizing data
 
@@ -55,4 +55,4 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 - https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html
 - https://seaborn.pydata.org/tutorial/color_palettes.html
 - https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html
-
+- https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html
