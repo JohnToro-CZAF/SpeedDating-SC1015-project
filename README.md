@@ -5,16 +5,16 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 
 
 1. [Preliminary Exploratory Analysis](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/1-PreliminaryExploratoryAnalysis.ipynb)
-2. [Attributes And satIncome](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/2-Attributes%26incomeSAT.ipynb)
+2. [Attributes And SatIncome](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/2-Attributes%26incomeSAT.ipynb)
 3. [Similarities](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/3-Similarities.ipynb)
 4. [Logistic Regression](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/4-LogisticRegression.ipynb)
-5. [OtherModels(RandomForest, XGBoost, OLS)](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/5-OtherModels(RandomForest%2C%20XGBoost%2C%20OLS).ipynb)
+5. [Other Models(RandomForest, XGBoost, OLS)](https://github.com/JohnToro-CZAF/SpeedDating-SC1015-project/blob/main/5-OtherModels(RandomForest%2C%20XGBoost%2C%20OLS).ipynb)
 
 ## Contributors
 
-- @nzkai -
-- @JohnToro -
-- @kelpjr - 
+- @nzkai - Attributes And SatIncome, Other Models
+- @JohnToro - Similarities, Logistic Regression
+- @kelpjr - Preliminary Exploratory Analysis, Other Models
 
 
 ## Problem Definition
