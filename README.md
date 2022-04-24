@@ -15,6 +15,7 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 - @nzkai - Attributes And SatIncome, Other Models
 - @JohnToro - Similarities, Logistic Regression
 - @kelpjr - Preliminary Exploratory Analysis, Other Models
+- All of us actually worked together on all the notebook closely in order to collaborate everything together. 
 
 
 ## Problem Definition
