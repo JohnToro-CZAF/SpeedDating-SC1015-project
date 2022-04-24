@@ -55,4 +55,4 @@ This is a Mini-Project for SC1015(Introduction to Data Science and Artificial In
 - https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html
 - https://seaborn.pydata.org/tutorial/color_palettes.html
 - https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html
-- 
+- https://www.statsmodels.org/dev/gettingstarted.html
